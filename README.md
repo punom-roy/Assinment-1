@@ -1,4 +1,4 @@
-# Assinment-1
+# Assignment-1 ( Corrected using Grammarly )
 The block is based on these three questions.
 
 5...What is type inference in TypeScript? Why is it helpful? 
